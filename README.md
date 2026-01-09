@@ -1,41 +1,36 @@
 # CardenseToronto# 
 # CardenseToronto (CDT)
 
-🚀 **CardenseToronto** é um **CARD digital cripto**, um projeto em desenvolvimento com foco em **investimento de longo prazo** e crescimento orgânico da comunidade.
+🚀 **CardenseToronto** is a crypto project in development, built with a **long-term investment vision**, focused on transparency and community-driven growth.
 
-> ❗ **Importante:**
-> CardenseToronto **NÃO é cartão de pagamento**.
-> O termo **CARD** representa um **conceito/projeto cripto**, voltado para construção e valorização em longo prazo, sem promessas de lucro.
+## 🌍 Project Vision
 
-## 🌍 Visão do Projeto
+CardenseToronto aims to grow as an independent crypto project, developed step by step with openness, responsibility, and a strong long-term perspective.
 
-Construir um projeto cripto sólido, transparente e comunitário, pensado para quem acredita em **crescimento gradual e de longo prazo**.
+## 🔐 Core Principles
 
-## 🔐 Princípios
+* Transparency
+* Open development
+* Community-first growth
+* Long-term vision
 
-* Transparência
-* Desenvolvimento aberto
-* Comunidade como base do crescimento
-* Visão de longo prazo
+## 🪙 Project Information
 
-## 🪙 Informações do Projeto
+* Name: CardenseToronto
+* Symbol: CDT
+* Type: Crypto project
+* Focus: Long-term investment
+* Status: In development
 
-* Nome: CardenseToronto
-* Símbolo: CDT
-* Tipo: CARD digital cripto (conceito)
-* Foco: Investimento em longo prazo
-* Status: Em desenvolvimento
+## 🤝 Community
 
-## 🤝 Comunidade
+CardenseToronto grows together with its community. Every supporter is part of the project’s construction from the beginning.
 
-A CardenseToronto cresce junto com sua comunidade. Cada apoiador faz parte da construção do projeto desde o início.
+## ⚠️ Disclaimer
 
-## ⚠️ Aviso
-
-Este projeto está em desenvolvimento. Criptomoedas envolvem riscos.
-Não é aconselhamento financeiro.
+This project is under development. Cryptocurrencies involve risks.
+This is not financial advice.
 
 ---
 
 **CardenseToronto © 2026**
-
