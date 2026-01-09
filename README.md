@@ -1,38 +1,41 @@
 # CardenseToronto# 
-CardenseToronto (CDT)
+# CardenseToronto (CDT)
 
-🚀 **CardenseToronto** é uma criptomoeda criada com foco em crescimento de longo prazo, transparência e fortalecimento da comunidade.
+🚀 **CardenseToronto** é um **CARD digital cripto**, um projeto em desenvolvimento com foco em **investimento de longo prazo** e crescimento orgânico da comunidade.
+
+> ❗ **Importante:**
+> CardenseToronto **NÃO é cartão de pagamento**.
+> O termo **CARD** representa um **conceito/projeto cripto**, voltado para construção e valorização em longo prazo, sem promessas de lucro.
 
 ## 🌍 Visão do Projeto
 
-CardenseToronto nasce como um projeto cripto independente, voltado para investidores que acreditam na construção gradual, responsável e comunitária.
+Construir um projeto cripto sólido, transparente e comunitário, pensado para quem acredita em **crescimento gradual e de longo prazo**.
 
 ## 🔐 Princípios
 
 * Transparência
 * Desenvolvimento aberto
 * Comunidade como base do crescimento
-* Evolução em longo prazo
+* Visão de longo prazo
 
-## 🪙 Informações do Token
+## 🪙 Informações do Projeto
 
 * Nome: CardenseToronto
 * Símbolo: CDT
-* Rede: (adicione aqui – ex: Solana / Ethereum / BSC)
-* Carteira: MetaMask compatível
-
-## 📈 Objetivo
-
-Construir uma criptomoeda sólida, com presença global, focada em utilidade futura e valorização orgânica.
+* Tipo: CARD digital cripto (conceito)
+* Foco: Investimento em longo prazo
+* Status: Em desenvolvimento
 
 ## 🤝 Comunidade
 
-A CardenseToronto cresce junto com sua comunidade. Cada apoiador faz parte da construção do projeto.
+A CardenseToronto cresce junto com sua comunidade. Cada apoiador faz parte da construção do projeto desde o início.
 
 ## ⚠️ Aviso
 
-Este projeto está em desenvolvimento. Criptomoedas envolvem riscos. Invista com responsabilidade.
+Este projeto está em desenvolvimento. Criptomoedas envolvem riscos.
+Não é aconselhamento financeiro.
 
 ---
 
 **CardenseToronto © 2026**
+
